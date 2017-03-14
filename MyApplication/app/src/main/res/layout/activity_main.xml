@@ -8,11 +8,10 @@
     android:orientation="vertical"
     tools:context="com.notrace.demo.MainActivity">
 
-    <TextView
+    <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-
-        android:text="text"
+        android:src="@mipmap/ic_launcher"
         />
 
 
